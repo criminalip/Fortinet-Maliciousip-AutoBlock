@@ -1,0 +1,81 @@
+{
+    "count": 25,
+    "data": {
+        "covenant": [
+            "tag: c2_covenant after: {% now_date %}"
+        ],
+        "posh": [
+            "tag: c2_posh after: {% now_date %}"
+        ],
+        "mythic": [
+            "tag: c2_mythic after: {% now_date %}"
+        ],
+        "havoc": [
+            "tag: c2_havoc after: {% now_date %}"
+        ],
+        "darkcomet": [
+            "tag: c2_darkcomet after: {% now_date %}"
+        ],
+        "sliver": [
+            "tag: c2_sliver after: {% now_date %}"
+        ],
+        "meshagent": [
+            "tag: c2_meshagent after: {% now_date %}"
+        ],
+        "metasploit": [
+            "tag: c2_metasploit after: {% now_date %}"
+        ],
+        "C2" : [
+            "tag: \"C2\" after: {% now_date %}"
+        ],
+        "Cobalt Strike": [
+            "tag: Cobalt Strike after: {% now_date %}"
+        ],
+        "Compromised": [
+            "tag: \"Compromised\" after: {% now_date %}"
+        ],
+        "Malicious": [
+            "tag: \"Malicious\" after: {% now_date %}"
+        ],
+        "Mining" : [
+            "tag: Mining after: {% now_date %}"
+        ],
+        "Simbox": [
+            "tag: Simbox after: {% now_date %}"
+        ],
+        "MySQL Data Leak": [
+            "scanner_port:3306 after: {% now_date %}"
+        ],
+        "SQL Server Data Leak": [
+            "scanner_port:1433 after: {% now_date %}"
+        ],
+        "Spam Mail": [
+            "scanner_port:110 after: {% now_date %}"
+        ],
+        "Remote Command Execution Worm": [
+            "scanner_port:2323 after: {% now_date %}"
+        ],
+        "Malicious File Upload": [
+            "scanner_port:21 after: {% now_date %}"
+        ],
+        "Proxy Server Abuse" : [
+            "scanner_port:3128 after: {% now_date %}"
+        ],
+        "RDP Worm": [
+            "scanner_port:3389 after: {% now_date %}"
+        ],
+        "SSH Worm": [
+            "scanner_port:22 after: {% now_date %}"
+        ],
+        "Telnet Worm": [
+            "scanner_port:23 after: {% now_date %}"
+        ],
+        "SMB TCP 445 Brute Force": [
+            "scanner_port:445 after: {% now_date %}"
+        ],
+        "SMB TCP 139 Brute Force": [
+            "scanner_port:139 after: {% now_date %}"
+        ]
+    }
+}
+                                     
