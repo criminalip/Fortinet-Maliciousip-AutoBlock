@@ -73,6 +73,7 @@ python main.py
 ## Example
 ``` bash
 Shows an example of how uploaded IP addresses can be organized into a single group, and how to manage the particular group by date and policy.
+```
 
 #### Address Object upload
 ![Address_Object_Upload](https://github.com/user-attachments/assets/3c96a9bf-ce02-4d5d-99d1-69eea06e001e)
@@ -82,9 +83,4 @@ Shows an example of how uploaded IP addresses can be organized into a single gro
 
 #### Policy upload
 ![Policy_Upload](https://github.com/user-attachments/assets/f1d0fc58-5314-4c37-8ab5-908b52c1de8b)
-```
-
-
-
-
 
