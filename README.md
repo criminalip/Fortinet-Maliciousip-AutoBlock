@@ -59,7 +59,6 @@ Before using this system, ensure you have the following:
  ┃ ┃ ┗ 📜managefiles.py
  ┃ ┗ 📂fwb
  ┃ ┃ ┗ 📜_ftg_request_parm.py
- ┣ 📂log
  ┣ 📜cip_c2_detect_query.json
  ┣ 📜fire_config.py
  ┗ 📜main.py
@@ -69,6 +68,20 @@ Before using this system, ensure you have the following:
 ## Usage
 ``` bash
 python main.py
+```
+
+## Example
+``` bash
+Shows an example of how uploaded IP addresses can be organized into a single group, and how to manage the particular group by date and policy.
+
+#### Address Object upload
+![Address_Object_Upload](https://github.com/user-attachments/assets/3c96a9bf-ce02-4d5d-99d1-69eea06e001e)
+
+#### Address Group upload
+![Address_Group_Upload](https://github.com/user-attachments/assets/7c337bb6-b64e-46f0-b0ae-53c4ce5b7a32)
+
+#### Policy upload
+![Policy_Upload](https://github.com/user-attachments/assets/f1d0fc58-5314-4c37-8ab5-908b52c1de8b)
 ```
 
 
